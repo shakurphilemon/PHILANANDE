@@ -1,0 +1,119 @@
+body{
+    padding: 0%;
+    margin: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    padding-top: 10px;
+    background-image: url("Photos/amazing-animal-beautiful-beautifull.jpg");
+    padding-bottom: 100px;
+}
+.LOGO h1{
+    padding-top: 100px;
+    margin: 0%;
+    color: lightgray;
+    text-align: center;
+    font-size: 23px;
+    font-family: cursive;
+}
+#Navigation ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+#Navigation li{
+    float: left;
+    font-size: 12px;
+}
+#Navigation li a{
+    color:  white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+#Navigation li a:hover{
+    background-color: lightgray;
+}
+.Test h2{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: white;
+    padding: 0;
+    margin: 0;
+    padding-top: 30px;
+}
+#YOUTUBE{
+    text-align: center;
+    padding-top: 30px;
+}
+#YOUTUBE a:link, a:visited{
+    background-color: lightslategrey;
+    color: lightgrey;
+    border: 10px lightgray solid;
+    text-align: center;
+    font-size: 20px;
+    text-decoration: none;
+    display: inline-block;
+}
+#YOUTUBE a:hover, a:active {
+    background-color: lightgray;
+    color: white;
+}
+.TITLE h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 0%;
+    margin: 0%;
+    text-align: center;
+    font-size: 50px;
+    padding-top: 40px;
+    text-decoration: underline;
+}
+#IMAGE li img{
+    width: 50%;
+    margin: 1px auto;
+    display: block;
+}
+.Software h1{
+    color: cadetblue;
+    padding: 0%;
+    margin: 0%;
+    text-align: center;
+    font-size: 40px;
+}
+.Bio p{
+    text-align: center;
+    padding-left: 5vw;
+    padding-right: 5vw;
+}
+#Footage{
+    background-color: black;
+    padding: 0%;
+    margin: 0%;
+    padding-bottom: 100px;
+    text-align: center;
+}
+.Footer ul{
+    list-style: none;
+    padding: 0%;
+    margin: 0%;
+    overflow: hidden;
+}
+.Footer li{
+    font-size: 20px;
+    display: inline-block;
+    padding-top: 12px;
+}
+.Footer li a{
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+.Buttom li{
+    text-align: center;
+    text-decoration: none;
+    list-style: none;
+}
+
